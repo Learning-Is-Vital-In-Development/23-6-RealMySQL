@@ -1,6 +1,8 @@
 name: PR auto merge
 on:
-  workflow_dispatch:
+  schedule:
+    - cron: '0 6 * * 0'
+
 jobs:
   automerge:
     runs-on: ubuntu-latest
