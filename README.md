@@ -16,7 +16,7 @@
 | 09. 옵티마이저와 힌트 |[정리 자료 보러가기](https://github.com/Learning-Is-Vital-In-Development/23-6-RealMySQL/tree/main/ch09)
 | 10. 실행계획      |[정리 자료 보러가기](https://github.com/Learning-Is-Vital-In-Development/23-6-RealMySQL/tree/main/ch10)
 
-## 진행방식``````````
+## 진행방식
 
 1. 격주로 모든 구성원이 발표 자료의 형태로 정리하여 PR을 올립니다.
 2. 모여서 발표자를 선정, 발표 진행 후 질의시간을 진행합니다. 질의 내용은 Github Discussions을 이용해 기록합니다.
